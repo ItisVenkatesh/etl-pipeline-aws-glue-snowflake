@@ -1,0 +1,3 @@
+boto3  # AWS SDK for Python, for interacting with AWS services
+pyspark  # Apache Spark for working with Glue DynamicFrame and DataFrame
+awsglue  # AWS Glue Python library (for GlueContext, DynamicFrame, etc.)
